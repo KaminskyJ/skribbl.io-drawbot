@@ -6,15 +6,15 @@ Watch the little bot in action:
 ![this should be a gif](https://github.com/KaminskyJ/skribbl.io-drawbot/blob/master/images/dumbo_loop.gif)
 
 Requirements:
-Python 3
-openCV
-mss
-numpy
-pyautogui
-skimage
-simplification
-google_images_download
-pytesseract
+- Python 3
+- openCV
+- mss
+- numpy
+- pyautogui
+- skimage
+- simplification
+- google_images_download
+- pytesseract
 
 Coming Future Improvements:
 - Automatic window detection. Currently only set up for a 2,880×1,800 window.
