@@ -19,7 +19,6 @@ Requirements:
 
 Coming Future Improvements:
 - Automatic window detection. Currently only set up for a 2,880×1,800 window
-(full screen on 15 inch macbook laptops)
 - Colors!
 
 
